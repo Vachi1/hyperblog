@@ -45,8 +45,14 @@ body{
     font-size: 20px;
 }
 #post {
-    background: white ;
+    background: white;
     padding: 1em;
+}
+
+#post img {
+    max-width: 100%;
+    height: auto;
+    display: block;
 }
 #footer {
     background: #777;
