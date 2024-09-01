@@ -1,15 +1,35 @@
 body{
     color: #333333;
+
     text-align: left;
     font-family: 'Courier New', Courier, monospace, Helvetica, sans-serif;
+}
+    
+#cabecera {
+
+    background: #33a ;
+    color: white;
+    font-weight: bold;
+    margin: 0;
+    padding: 0.5em;
+
 
 }
+#cabecera #tagline {
+
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+
+}
+
 #container {
-    width: 30px;
-    padding: lem;
+    width: 70%;
+    padding: 1em;
     text-align: left;
     border: 1px solid #ccc;
     margin: 0 auto;
+    
 
 }
 
